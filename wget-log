@@ -1,0 +1,20 @@
+--2020-07-17 23:47:19--  https://supporter-files.nexus-cdn.com/952/2678/The%20Witcher%203%20Mod%20Manager-2678-0-7-11-1571758907.zip?md5=AhVBaZ85EEjG_flqOT_rnQ
+Resolving supporter-files.nexus-cdn.com (supporter-files.nexus-cdn.com)... 185.180.13.131
+Connecting to supporter-files.nexus-cdn.com (supporter-files.nexus-cdn.com)|185.180.13.131|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.nexusmods.com/CDN/e403/?ip=58.87.111.39&user_id=&req=/952/2678/The Witcher 3 Mod Manager-2678-0-7-11-1571758907.zip&expires=&md5=AhVBaZ85EEjG_flqOT_rnQ&rip=&ctype=supporter [following]
+--2020-07-17 23:47:22--  http://www.nexusmods.com/CDN/e403/?ip=58.87.111.39&user_id=&req=/952/2678/The%20Witcher%203%20Mod%20Manager-2678-0-7-11-1571758907.zip&expires=&md5=AhVBaZ85EEjG_flqOT_rnQ&rip=&ctype=supporter
+Resolving www.nexusmods.com (www.nexusmods.com)... 104.22.2.55, 104.22.3.55, 172.67.15.252
+Connecting to www.nexusmods.com (www.nexusmods.com)|104.22.2.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nexusmods.com/CDN/e403/?ip=58.87.111.39&user_id=&req=/952/2678/The%20Witcher%203%20Mod%20Manager-2678-0-7-11-1571758907.zip&expires=&md5=AhVBaZ85EEjG_flqOT_rnQ&rip=&ctype=supporter [following]
+--2020-07-17 23:47:24--  https://www.nexusmods.com/CDN/e403/?ip=58.87.111.39&user_id=&req=/952/2678/The%20Witcher%203%20Mod%20Manager-2678-0-7-11-1571758907.zip&expires=&md5=AhVBaZ85EEjG_flqOT_rnQ&rip=&ctype=supporter
+Connecting to www.nexusmods.com (www.nexusmods.com)|104.22.2.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘The Witcher 3 Mod Manager-2678-0-7-11-1571758907.zip?md5=AhVBaZ85EEjG_flqOT_rnQ’
+
+                         The Witcher 3 Mod Manager     [<=>                                                                                                           ]       0  --.-KB/s                                       The Witcher 3 Mod Manager-     [ <=>                                                                                                          ]  14.87K  48.6KB/s                                      The Witcher 3 Mod Manager-2     [  <=>                                                                                                         ]  45.62K  57.9KB/s                                     The Witcher 3 Mod Manager-26     [   <=>                                                                                                        ]  61.82K  62.0KB/s               The Witcher 3 Mod Manager-2678-0-7-11-1571758907.z     [    <=>                                                                                                       ] 114.46K  97.3KB/s    in 1.2s    
+
+2020-07-17 23:47:32 (97.3 KB/s) - ‘The Witcher 3 Mod Manager-2678-0-7-11-1571758907.zip?md5=AhVBaZ85EEjG_flqOT_rnQ’ saved [117212]
+
